@@ -2,7 +2,7 @@
 
 ### Where curiosity meets probability — and mathematics learns to tell stories.
 
-> *Companion interactive notebooks for the book by [Author Name]*
+> *Companion interactive notebooks for the book by Alok Patel*
 
 ---
 
