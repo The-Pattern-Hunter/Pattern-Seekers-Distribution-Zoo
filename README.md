@@ -24,7 +24,7 @@ Interactive Python notebooks to accompany the book "The Pattern Seekers".
 
 | Chapter | What You'll Learn | Notebook | Level |
 |:-------:|-------------------|:--------:|:-----:|
-| **1** | Bell curves and patterns in chaos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Pattern-Seekers-Distribution-Zoo/blob/main/notebooks/Chapter_01_Weather_Man_Secret.ipynb) | ⭐ Easy |
+| **1** | Bell curves and patterns in chaos | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/The-Pattern-Hunter/Pattern-Seekers-Distribution-Zoo/blob/main/notebooks/Chapter_01_Weather_Man_Secret.ipynb) | ⭐ Easy |
 | **2** | Why averages lie | *Coming soon* | ⭐ Easy |
 | **3** | Law of Large Numbers | *Coming soon* | ⭐⭐ Medium |
 | **4** | Central Limit Theorem | *Coming soon* | ⭐⭐ Medium |
