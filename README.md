@@ -152,7 +152,7 @@ The complete story of Ananya, Kabir, Priya, and Professor Mishra's journey from 
 
 ## 🙏 Credits
 
-**Book Author:** [Your Name]  
+**Book Author:** Alok Patel 
 **Interactive Notebooks:** [Contributors]  
 **Data Sources:** IMD, Cricket Analytics, [others]  
 **Inspiration:** Every student who thought "I'm not a math person"
